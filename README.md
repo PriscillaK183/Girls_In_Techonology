@@ -1,2 +1,2 @@
 # Girls_In_Techonology
-Django webpage project promoting girls in technology.
+A fun, interactive web app for girls in technology.
